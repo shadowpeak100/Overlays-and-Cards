@@ -174,3 +174,6 @@ a {
 .text:hover div {
   opacity: 0;
 }
+.menu li {
+  margin: 20px;
+}
